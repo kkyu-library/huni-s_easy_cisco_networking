@@ -1,6 +1,6 @@
 # hunis_easy_cisco_networking
 
-- <a href="">PART 01 네트워크 세상에 들어서며</a>
+- <a href="part01.md">PART 01 네트워크 세상에 들어서며</a>
 
 ### PART 02 네트워크와 케이블, 그리고 친구들
 
