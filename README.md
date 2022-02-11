@@ -1,18 +1,7 @@
 # hunis_easy_cisco_networking
 
 - <a href="part01.md">PART 01 네트워크 세상에 들어서며</a>
-
-### PART 02 네트워크와 케이블, 그리고 친구들
-
-1. LAN(Local Area Network)이란?
-2. 이더넷은 인터넷의 친구?
-3. 그럼 토큰링(TokenRing)은요?
-4. UTP 케이블만이라도 제대로 알아볼까요?
-5. 케이블, 이 정도만 알면…
-6. 맥 어드레스(MAC Address)에 대한 이야기
-7. 유니캐스트, 브로드캐스트, 멀티캐스트
-8. OSI 7 Layer(계층)는 왜 만들어졌나요?
-9. 컴퓨터는 프로토콜(Protocol)로 말한다
+- <a href="part02.md">PART 02 네트워크와 케이블, 그리고 친구들</a>
 
 ### PART 03 TCP/IP와의 만남
 
