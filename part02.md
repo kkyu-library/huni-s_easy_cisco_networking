@@ -1,4 +1,4 @@
-# PART 01 네트워크 세상에 들어서며
+# PART 02 네트워크와 케이블, 그리고 친구들
 
 ### 1. LAN(Local Area Network)이란?
 - LAN(Local Area Network) - 어느 한정된 공간의 네트워크 구축
