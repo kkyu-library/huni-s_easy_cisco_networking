@@ -53,5 +53,33 @@
 - 앞에서 6개의 16진수가 벤더, 생성자를 나타내느 코드로, 이 코드를 OUI(Orgnizational Unique Identifier)이라 한다.
 
 ### 7. 유니캐스트, 브로드캐스트, 멀티캐스트
+- 유니캐스트(Unicast)
+  - 현재 네트워크상에서 가장 많이 사용되는 통신 방식
+  - 특정 목적지의 주소 하나만을 가지고 통신하는 방식
+  - 다른 PC들의 CPU성능을 저하시키지 않는다.   
+    - 자신의 맥 어드레스가 아니라면 랜카드가 이 프레임을 버린다.  
+    - 자신의 맥 어드레스라면 랜카드는 이 프레임을 CPU로 보낸다.  
+
+- 브로드캐스트(Broadcast)
+  - 네트워크상의 전체 노드로 전송하는 통신 방식
+  - 전체적인 트랙피도 증가하고 PC(CPU)의 성능도 떨어진다. 
+  - 필요하긴 하지만 많아지면 문제가 생긴다.
+  - EX) ARP(Address Resolution Protocol) - IP주소를 가진 노드의 맥 주소를 리턴
+
+- 멀티캐스트(Multicast)
+  - 특정 그룹 데이터를 보내는 경우 적당한 통신 방식
+  - 유니캐스트와 브로드캐스트의 장점을 곃합해 한번에 그룹 멤버들에게 다보내면서도 그룹 멤버 의외의 PC에는 영향을 주지 않는다.
+  - 스위치나 라우터가 이 멀티캐스트 기능을 꼭 지원해야 한다는 제약이 있다.  
+  
 ### 8. OSI 7 Layer(계층)는 왜 만들어졌나요?
+- OSI(Open Systems Interconnection) 7 Layer
+  - Applicaiton Layer
+  - Presentation Layer
+  - Session Layer
+  - Transport Layer
+  - Network Layer
+  - Data Link Layer
+  - Physical Layer
+   
+
 ### 9. 컴퓨터는 프로토콜(Protocol)로 말한다
