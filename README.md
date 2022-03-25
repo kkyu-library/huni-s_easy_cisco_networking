@@ -1,10 +1,10 @@
 # hunis_easy_cisco_networking
 
-- <a href="part01.md">PART 01 네트워크 세상에 들어서며</a>
-- <a href="part02.md">PART 02 네트워크와 케이블, 그리고 친구들</a>
-- <a href="part03.md">PART 03 TCP/IP와의 만남</a>
-- <a href="part04.md">PART 04 네트워크 장비에 관한 이야기</a>
-- <a href="part05.md">PART 05 IP 주소로의 여행</a>
+- <a href="part/part01.md">PART 01 네트워크 세상에 들어서며</a>
+- <a href="part/part02.md">PART 02 네트워크와 케이블, 그리고 친구들</a>
+- <a href="part/part03.md">PART 03 TCP/IP와의 만남</a>
+- <a href="part/part04.md">PART 04 네트워크 장비에 관한 이야기</a>
+- <a href="part/part05.md">PART 05 IP 주소로의 여행</a>
 
 ### PART 06 스위치를 켜라!
 
