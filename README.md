@@ -7,14 +7,7 @@
 - <a href="part/part05.md">PART 05 IP 주소로의 여행</a>
 - <a href="part/part06.md">PART 06 스위치를 켜라!</a>
 - <a href="part/part07.md">PART 07 라우터만 알면 네트워크 도사?</a>
-
-### PART 08 라우팅 프로토콜과의 한판
-
-1. RIP라는 라우팅 프로토콜에 대한 이야기
-2. RIP와 함께 춤을?
-3. Distance - Vector 라우팅 알고리즘에서의 문제점과 해결책
-4. IGRP 라우팅 프로토콜
-5. OSPF 라우팅 프로토콜
+- <a href="part/part08.md">PART 08 라우팅 프로토콜과의 한판</a>
 
 ### PART 09 라우터, 그 속으로 전진!
 
