@@ -1,7 +1,9 @@
 # PART 03 TCP/IP와의 만남
 
 ### 1. TCP/IP를 모르면 인터넷을 아는 게 아니다?
+
 ![image](https://user-images.githubusercontent.com/64997245/157666815-fee3fc79-4a91-43d8-98c4-eda16dd93201.png)
+
 - TCP/IP(Transmission Control Porotocol/Internet Protocol)
   - 각각의 네트워크에 접속되는 호스트들은 고유의 주소를 가지고 다른 네트워크에 연결되어 있는 호스트들과 데이터를 주고 받을 수 있다.
 
