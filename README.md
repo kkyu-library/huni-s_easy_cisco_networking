@@ -149,7 +149,7 @@
 8. IPv6와의 어색한 동거
 9. 라우터에서 IPv6 구성
 
-### <a href="part/appendix">APPENDIX 부록</a>
+### <a href="part/appendix.md">APPENDIX 부록</a>
 
 1. 네트워킹을 하면서 꼭 알아두어야 할 약어
 2. 시스코 장비의 패스워드 복구 방법
